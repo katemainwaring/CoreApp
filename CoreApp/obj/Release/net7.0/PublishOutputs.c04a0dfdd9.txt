@@ -1,0 +1,7 @@
+/Users/katemainwaring/Projects/CoreApp/CoreApp/obj/Release/net7.0/PubTmp/Out/CoreApp
+/Users/katemainwaring/Projects/CoreApp/CoreApp/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/katemainwaring/Projects/CoreApp/CoreApp/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/katemainwaring/Projects/CoreApp/CoreApp/obj/Release/net7.0/PubTmp/Out/CoreApp.dll
+/Users/katemainwaring/Projects/CoreApp/CoreApp/obj/Release/net7.0/PubTmp/Out/CoreApp.deps.json
+/Users/katemainwaring/Projects/CoreApp/CoreApp/obj/Release/net7.0/PubTmp/Out/CoreApp.runtimeconfig.json
+/Users/katemainwaring/Projects/CoreApp/CoreApp/obj/Release/net7.0/PubTmp/Out/CoreApp.pdb
